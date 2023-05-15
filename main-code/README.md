@@ -11,6 +11,10 @@
 
 OBS.: O importante é  ela conseguir jogar a umidade para uma silica diminuido a umidade e com a ventuinha a temperatura  
 
+<picture>
+    <img align="center" height="600" width="500" src="../src/img1.jpg"/>
+</picture>
+
 # Rotinas
 **Primeira semana**
 A temperatura deve estar por volta dos 28°C e umidade o mais alta possível (por isso, é importante a retirada da ventoinha com a sílica, para poder se ter o aumento exponencial da umidade), não é necessário fazer o monitoramento da umidade na primeira semana (por parte dessa placa, pois ela precisa estar o mais alta possível)
