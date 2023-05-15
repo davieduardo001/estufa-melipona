@@ -12,7 +12,11 @@
 OBS.: O importante é  ela conseguir jogar a umidade para uma silica diminuido a umidade e com a ventuinha a temperatura  
 
 <picture>
-    <img align="center" height="600" width="500" src="../src/img1.jpg"/>
+    <img align="center" height="600" width="400" src="../src/img1.jpg"/>
+</picture>
+
+<picture>
+    <img align="center" height="600" width="400" src="../src/img5.jpg"/>
 </picture>
 
 # Rotinas
