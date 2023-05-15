@@ -1,6 +1,6 @@
 # ESTUFA MELIPONA
 
-__É um projeto para o Instituto Abelha Nativa (Brasília, DF), e tem como o objetivo de fazer a incubação de abelhas nativas até elas estarem prontas para serem introduzidas novas colonias__
+__É um projeto para o Instituto Abelha Nativa (Brasília, DF), e tem como o objetivo fazer a incubação de abelhas nativas até elas estarem prontas para serem introduzidas novas colonias__
 
 <picture>
     <img align="center" height="600" width="500" src="./src/img2.jpg"/>
