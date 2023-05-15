@@ -1,9 +1,9 @@
 # ESTUFA MELIPONA
 
-* É um projeto para o Instituto Abelha Nativa (Brasília, DF), e tem como o objetivo de fazer a incubação de abelhas nativas até elas estarem prontas para serem introduzidas novas colonias
+__É um projeto para o Instituto Abelha Nativa (Brasília, DF), e tem como o objetivo de fazer a incubação de abelhas nativas até elas estarem prontas para serem introduzidas novas colonias__
 
 <picture>
-    <img src="./src/img2.jpg"/>
+    <img align="center" height="600" width="500" src="./src/img2.jpg" s/>
 </picture>
 
 * Com isso, a incubadora conta com dois controladores, Controlador1 (um controlador de temperatura e umidade simples para aumentar ambas quando for necessário) e Controlador2 (uma placa Arduino Uno, para diminuir a umidade quando necessário e fazer o controle das rotinas)
