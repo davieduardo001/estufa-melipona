@@ -12,7 +12,7 @@ void setup(){
 
 void loop(){
   //604800000s one week
-  delay(604800000)
+  delay(604800000);
   int i;
 
   for(i=0; i<1008; i++)
