@@ -83,7 +83,7 @@ void loop(){
       Serial.println(F("%"));
     }
 
-    if(event.relative_humidity >= 90)
+    if(event.relative_humidity >= 70)
     {
       digitalWrite(RELAY_PIN, HIGH);
       delay(15000);
