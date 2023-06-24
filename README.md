@@ -12,6 +12,7 @@ __É um projeto para o Instituto Abelha Nativa (Brasília, DF), e tem como o obj
 ## Observações:
 * Os componentes citados acima estão sendo descritos na pasta __main-code__.
 * Veja o vídeo para maiores esclarecimentos sobre a utilização.
+* Link para o vídeo: https://www.youtube.com/watch?v=7WWlhtyRlIM
 
 <picture>
     <img align="center" height="600" width="500" src="./src/img2.jpg"/>
