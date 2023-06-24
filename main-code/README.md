@@ -1,6 +1,7 @@
 ## Componentes
-* placa Arduíno uno (para o controle das rotinas e dos componentes)
-* relay (para o controle da ventoinha)
+* controlador de umidade e temperatura (Controlador1)
+* placa Arduíno uno (para o controle das rotinas e dos componentes = Controlador2)
+* relay (para o controle da ventoinha=desumidificador)
 * ventoinha 12v (menor ou maior depende da sua necessidade) 
 * sílica (utilização juntamente com a ventoinha para a diminuição da umidade)
 * sensor DHT11 (sensor de temperatura e umidade para o Arduíno)
