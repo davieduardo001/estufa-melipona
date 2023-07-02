@@ -54,7 +54,7 @@ void loop(){
 
   //START FIRST CICLE
   //604800000s one week
-  Serial.print(F("START FIRST WEEK"))
+  Serial.print(F("START FIRST WEEK"));
   delay(604800000);
 
   //START SECOND CICLE
